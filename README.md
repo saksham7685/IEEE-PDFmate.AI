@@ -1,6 +1,4 @@
-<h1>Team Byte Boffins</h1>
 # PDFMate.AI
-
 PDFMat.AI is a Retrieval-Augmented Generation (RAG) application that allows users to upload PDFs and query them efficiently. It utilizes **ChromaDB** for vector-based retrieval, providing accurate answers with source references.
 
 ## Features
